@@ -1,30 +1,15 @@
-# This is a large heading
+# Jean Pierre Ramos 
 
-## This is a smaller heading
+### Geografìa 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Machala, in the province of El Oro, in Ecuador. 
 
-- This is
-- an unordered
-- list
+### Food 
 
-1. This is
-2. an ordered
-3. list
+1. Seafood 
+2. Meat 
 
-Here is `some code` in the middle of a sentence.
+### Contact 
 
-```
-This is
-a block
-of code
-```
+e-mail: jean.ramos@est.ikiam.edu.ec
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.MD 
